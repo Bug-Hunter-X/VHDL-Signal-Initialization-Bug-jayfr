@@ -1,0 +1,1 @@
+This repository contains a VHDL code example demonstrating an uncommon bug related to signal initialization. The bug is subtle and might be overlooked during code review. The solution demonstrates the correct way to initialize the signal to avoid unexpected behavior.
